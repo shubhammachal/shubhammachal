@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhammachal](https://github.com/shubhammachal)
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 👨‍💻 A complete of list and description of my projects related to data science can be found at [https://https://www.datascienceportfol.io/smachal](https://www.datascienceportfol.io/smachal)
+
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, software development, cloud security**
 
 - 📫 How to reach me **shubham95m@gmail.com**
 
