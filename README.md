@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **Text Generation Project**
+- 🔭 I’m currently working on **AI Powered Code Debugger**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, RNNs, CNNs, Deep Computer Vision, NLP**
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/shubhammachal)**
 - 📜 My data science projects portfolio: **[Portfolio](https://www.datascienceportfol.io/smachal)**
